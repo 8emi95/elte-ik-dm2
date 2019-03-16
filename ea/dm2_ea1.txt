@@ -1,0 +1,20 @@
+**** HONLAPON ***Statisztikák*** dm2C
+2015 õsz				2015 tavasz
+193 felvette				241
+163 vizsgázhat (30 nincs meg a GY)	204
+119 vizsgázott				160
+76  bukta				96 bukta (64 átmenõ)
+vizsgázHATott: 28% átmenõ
+vizsgázott: 36% átmenõ
+felvette: 22% átmenõ
+
+-----------------
+
+témák:
+Gráfelmélet
+Polinomok
+Kódolás
+
+vizsgaidõpontok: 5 hétel vizsgaidõszak kezdete elõtt
+
+konzi: kedd 15-16

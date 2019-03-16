@@ -1,0 +1,5 @@
+11 def 1 biz
+
+megajánlott
+3: 9+1
+2: 11+0

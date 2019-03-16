@@ -1,0 +1,56 @@
+2016.05.23. + 2016.05.25.
+01. Határozd meg mitõl összefüggõ egy gráf!
+02. Feszítõfa definíciója
+03. Rajzolj 2 síkgráft (igen, tényleg, nem viccelek :D) ***********
+04. Irányított séta definíciója
+05. Fõpolinom definíciója 
+06. Polinomok maradékos osztasa
+07. Mikor felbonthatatlan egy polinom **********
+08. Hamming-távolság
+09. Mit lehet meghatározni a McMillan egyenlõtlenség megforditasabol (vagy valami ilyes)
+10. Ellenõrzõ mátrix és a súly kapcsolata (ez se biztos bocsi)
+11. prefixmentes halmaz
++1. A bizi asszem az volt hogy mit mondhatunk polinomoknak az összegének a fokáról.
+
+2016.06.02.
+*almost same*
+03. adj meg 3 olyan gráfot ami nem sík gráf
+
+2016.06.07.
+01. Definiáld a feszített/telített részgráf fogalmát
+02. Definiáld a séta fogalmát
+03. Definiáld az erõsen összefüggõ gráf fogalmát!
+04. Ismertesd a Kruskal-algoritmust és a rá vonatkozó tételt!
+05. Definiáld a karakterisztika fogalmát
+06. Hogyan szól a polinomok maradékos osztásának tétele?
+07. Hogyan jellemezhetõek test fölötti polinomgyûrûben az egységek
+08. Hogyan szól Shannon-tétele zajmentes csatornára? 
+09. Mi a kapcsolat szisztematikus kód generátormátrixa és ellenörzõ mátrixa között? 
+10. Fogalmazd meg a Hamming-korlátra vonatkozó állítást! 
+11. Deniáld a vesszõs kód fogalmát.
++1. Mit mondhatunk polinomok szorzatának fokáról?
+
+2016.06.08.
+01. Definiáld a séta fogalmát!
+02. Ismertesd a Kruskal-algoritmust és a rá vonatkozó tételt!
+03. Definiáld a kifok/befok fogalmát!
+04. Definiáld a fa fogalmát és adj meg 2 ekvivalens jellemzését!
+05. Mik lehetnek egy primitív egész együtthatós polinom racionális gyökei?
+06. Definiáld a gyök fogalmát!
+07. Hogyan szól a polinomok maradékos osztásának tétele?
+08. Hogyan jellemezhetõk a C fölötti felbonthatatlan polinomok?
+09. Definiáld a Singleton-korlátra vonatkozó tételt!
+10. Definiáld a prefix és szuffix fogalmakat!
+11. Mit mondhatunk ellenõrzõ mátrix és a kód távolságának kapcsolatáról?
++1. Bizonyítsd be, hogy egy körmentes gráfban van elsõfokú csúcs!
+
+Nagyon vigyázz!!!!!!!! 1-2 szót kihagysz és nem adnak pontot az egész defre!!!!
+Nem hülyéskedek, klau ma volt és nem lett meg neki a megajánlott, pedig mindenhova rengeteget írt láttam és 1-2 szót tûztek hozzá és fél pontokat sem kapott!
+[...] egységelemes helyett egységet írt asszem
+[...] deg(g)=deg(f)
+[...] ahol csak az ellentmondás jelet rakta oda
+[...] meg valami=1
+[...] meg egyszer kihagyta, hogy konstans aztán ennyi
+
+
+A Járai könyvben van erre egy jó kép/ábra. Sok mindent tartozik ide. egyselem>egyselem, kommut>kommut, nulosztment>nulosztment, gauss>gauss, euklideszi>gauss, test>euklideszi
